@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Precious's World</title>
+    </head>
+    <body bgcolor="white">
+<h1>ABOUT THE CREATOR</h1>
+<img src="beautysmile.jpg" alt="beautysmile" height="100px" width="100px"
+<br>
+<p> My names are Precious Bankole, a vibrant young adult aiming to achieve boundless exploits in the world while mastering tools of the tech industry to make it easier,faster and much more fun, which in turn makes my bank account very robust.</p>
+
+
+<h2>MY INTERESTS/HOBBIES</h2>
+<p>My hobbies or interests are very dynamic,<br>I love reading, watching movies, music, games,especially simulations, cooking because anything food related is my lifeblood.<br>And making researches on any of these and other topics is also an interest of mine.<br>I also got a very huge interests in creating and manipulating around websites and anything tech related.<br>I am also into the beauty and skincare products,making zero chemical 100% natural anticeptic black soap and shea butter,made from natural herbs,honey,aloe vera,milk, essentail oils and many more,for all skin types and skin problems.<br>Literally Your Cure from Nature.</p>
+
+<h3>WHAT ARE MY ASPIRATIONS</h3>
+<p>Here are but a few of my aspirations.</p>
+<UL></UL>
+<LI>Attaining and maintaining financial freedom.</LI>
+<LI>Impacting lives through Tech.</LI>
+<LI>Creating my own website,to promote convenience in day to day life.</LI>
+<LI>Becoming a homename brand in my businesses,products and services.</LI>
+<LI>Advance learning on web design,digital marketing,coding and many more.</LI>
+
+<h4>FAVOURITE FOOD</h4>
+<p>Here are but a few list of food I love,in no order of peference.</p>
+<UL></UL>
+<LI>Plantain.</LI>
+<LI>Meat.</LI>
+<LI>Vegetable Soup.</LI>
+<LI>Swallow (Semo precisely).</LI>
+<LI>Rice (Made into different delicacies)etc.</LI>
+
+<h5>MY ATTRIBUTES</h5>
+<UL></UL>
+<LI>Smart worker.</LI>
+<LI>Intelligent.</LI>
+<LI>Fast Learner.</LI>
+<LI>Knowledge thirsty.</LI>
+<LI>High IQ and EQ etc.</LI><br><br>
+Allow me to digress and show off a little of what I have learnt so far in web design,I will insert forms,tables,audios and videos through codes into a webpage.<br><br>
+<form>
+    Skin Sensitivity <select>
+        <option>Sensitive</option>
+        <option>Mild</option>
+        <option>Normal</option></select><br><br>
+        Skin Type <select>
+            <option>Dry</option>
+            <option>Oily</option>
+            <option>Oily and Dry</option>
+        </select><br><br>
+    Email <input type="text"><br><br>
+    Gender <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label>
+    <input type="radio" id="Female" name="gender" value="female">
+    <label for="female">Female</label><br><br>
+    Ethnicity <select>
+        <option>Black</option>
+        <option>Caucasian</option>
+        <option>Asian</option>
+        <option>Arab (Middle Eastern)</option>
+        <option>Hispanic/Latino</option>
+        <option>Indian</option>
+        <option>Mixed</option>
+        <option>Pacific Islander</option>
+        <option>Other</option>
+        <option>Prefer not to say</option></select><br><br>
+        <table border="25pixels lightblue">
+            <caption>
+                <tr>
+                    <td>Raw Materials For Black Soap Production</td>
+                    <td>Prices in Naira</td>
+                </tr>
+                <tr>
+                    <td>Soap base</td>
+                    <td>25,000</td>
+                </tr>
+                <tr>
+                    <td>5litre of raw honey</td>
+                    <td>20,000</td>
+                </tr>
+                <tr>
+                    <td>Essential Oils</td>
+                    <td>15,000</td>
+                </tr>
+                <tr>
+                    <td>Herbs</td>
+                    <td>30,000</td>
+                </tr>
+            </caption>
+        </table><br><br>
+        <img src="friedchicken.jpg" height="100px" width="100px">
+        <br><br>
+        <img src="FriedRice.jpeg" height="100px" width="100px">
+        <br><br>
+        <img src="babe.jpg" height="100px" width="50px">
+        <br><br>
+        <img src="moi.jpg" height="100px" width="100px">
+        <br><br>
+        <img src="me001.jpg" height="100px" width="100px">
+        <br><br>
+        <img src="mario.jpeg" height="100px" width="100px">
+        <br><br>
+        <img src="Brown.png" height="100px" width="100px">
+        <br><br>
+        <img src="Presh.jpg" height="100px" width="100px">
+        <br><br>
+        <img src="gee.jpg" height="100px" width="100px">
+        <br><br>
+        <img src="blue.jpg" height="100px" width="100px">
+        <br><br>
+        <video src="ojoro.mp4" controls height="100px" width="100px"></video>
+        <br>
+        <video src="inpo.mp4" controls height="100px" width="100px"></video>
+        <br>
+        <video src="brighteningbutter.mp4" controls height="100px" width="100px"></video>
+        <br>
+        <video src="fave.mp4" controls height="100px" width="100px"></video>
+        <br>
+        <video src="drink.mp4" controls height="50%" width="50%"></video>
+        <br><br>
+        <audio src="Like You -Tatiana Manaois __ Naijaballerz.com-1.mp3"controls></audio>
+        <audio src="James Bay-Hold Back The River.mp3"controls></audio>
+        <audio src="Michael Jackson - Man In The Mirror.mp3"controls></audio>
+        <audio src="Brandon Lake - That's Who I Praise.mp3"controls></audio>
+        <audio src="Michael Jackson - Smooth criminal.mp3"controls></audio>
+        <br><br>
+        Attach file: <input type="file"><br><br>
+        <button type="submit">Submit</button>
+</form>
+
+<h6>CONCLUSION</h6>
+<p>I am a goal driven oriented person,who loves convenience and aim at extending the convenience to the world at large,while learning and becoming best at all I do.
+And I hope I have convinced and showed you just how beautiful and fun learning and growing in knowledge is.<br>Until next time,be radiant and techy.</p>
+<hr>
+
+<footer>
+Email: bankoleprecious17@gmail.com
+Copyright &copy;Precious 2025</footer>
+    </body>
+</html>
